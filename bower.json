@@ -11,6 +11,7 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0"
+    "polymer": "Polymer/polymer#^2.0.0",
+    "font-doppio-one": "git://github.com/Sw4pSpace/font-doppio-one.git"
   }
 }
